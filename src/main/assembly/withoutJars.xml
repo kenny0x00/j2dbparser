@@ -7,8 +7,14 @@
    <fileSets>
        <fileSet>
            <includes>
-               <include>parser*.exe</include>
 			   <include>example*.*</include>
+           </includes>
+       </fileSet>
+       <fileSet>
+           <directory>target</directory>
+           <outputDirectory></outputDirectory>
+           <includes>
+			   <include>*.exe</include>
            </includes>
        </fileSet>
    </fileSets>
