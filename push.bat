@@ -1,3 +1,3 @@
 @ECHO OFF
-call hgPush.bat
-call gitPush.bat
+hgPush.bat
+gitPush.bat
