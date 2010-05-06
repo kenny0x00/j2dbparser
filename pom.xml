@@ -36,7 +36,7 @@
 		<pluginRepository>
 			<id>launch4j-xml-plugin-repo</id>
 			<name>launch4j-xml-plugin Repository for Maven</name>
-			<url>https://launch4j-xml-plugin.googlecode.com/svn</url>
+			<url>https://launch4j-xml-plugin.googlecode.com/svn/repo</url>
 		</pluginRepository>
 	</pluginRepositories>
 	<build>
